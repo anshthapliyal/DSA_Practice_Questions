@@ -7,7 +7,7 @@ Types of Questions
 Contributing
 License
 # About
-This repository contains various DSA practice questions covering a wide range of topics such as arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, searching algorithms, dynamic programming, and more. Each question is accompanied by a solution implemented in a commonly used programming language, typically Python or C++.
+This repository contains various DSA practice questions covering a wide range of topics such as arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, searching algorithms, dynamic programming, and more. Each question is accompanied by a solution implemented in Java Programming Language.
 
 # Types of Questions
 This repository contains the practice questions of the following topics:
