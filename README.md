@@ -2,10 +2,14 @@
 Welcome to the Data Structures and Algorithms (DSA) practice repository! This repository is designed to help you enhance your problem-solving skills by providing a collection of practice questions along with their solutions. Whether you are preparing for coding interviews, competitive programming contests, or simply want to strengthen your understanding of DSA concepts, this repository is a valuable resource for you.
 
 # Table of Contents
-About
-Types of Questions
-Contributing
-License
+1. About
+
+2. Types of Questions
+
+3. Contributing
+
+4. License
+
 # About
 This repository contains various DSA practice questions covering a wide range of topics such as arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, searching algorithms, dynamic programming, and more. Each question is accompanied by a solution implemented in Java Programming Language.
 
