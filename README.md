@@ -31,7 +31,7 @@ This repository contains the practice questions of the following topics:
 9. Miscellaneous: Additional practice questions that do not fit into the above categories.
 
 A markdown file (README.md) containing the problem statement.
-Solution file(s) implemented in the Java programming language.
+Solution file(s) are implemented in the Java programming language.
 Feel free to explore the folders, choose a question you're interested in, and challenge yourself to solve it!
 
 # Contributing
