@@ -12,15 +12,23 @@ This repository contains various DSA practice questions covering a wide range of
 # Types of Questions
 This repository contains the practice questions of the following topics:
 
-Arrays: Questions and solutions related to array manipulation and algorithms.
-Linked Lists: Problems and solutions involving linked list data structures.
-Stacks and Queues: Challenges focused on stack and queue operations and applications.
-Trees: Practice problems revolving around binary trees, binary search trees, and other tree-related concepts.
-Graphs: Questions and solutions pertaining to graph traversal, shortest paths, connectivity, and more.
-Sorting Algorithms: Problems related to various sorting algorithms like bubble sort, merge sort, quick sort, etc.
-Searching Algorithms: Challenges centered around different searching algorithms such as binary search, linear search, etc.
-Dynamic Programming: Practice questions showcasing dynamic programming techniques to solve complex problems efficiently.
-Miscellaneous: Additional practice questions that do not fit into the above categories.
+1. Arrays: Questions and solutions related to array manipulation and algorithms.
+
+2. Linked Lists: Problems and solutions involving linked list data structures.
+
+3. Stacks and Queues: Challenges focused on stack and queue operations and applications.
+
+4. Trees: Practice problems revolving around binary trees, binary search trees, and other tree-related concepts.
+
+5. Graphs: Questions and solutions pertaining to graph traversal, shortest paths, connectivity, and more.
+
+6. Sorting Algorithms: Problems related to various sorting algorithms like bubble sort, merge sort, quick sort, etc.
+
+7. Searching Algorithms: Challenges centered around different searching algorithms such as binary search, linear search, etc.
+
+8. Dynamic Programming: Practice questions showcasing dynamic programming techniques to solve complex problems efficiently.
+
+9. Miscellaneous: Additional practice questions that do not fit into the above categories.
 
 A markdown file (README.md) containing the problem statement.
 Solution file(s) implemented in the Java programming language.
